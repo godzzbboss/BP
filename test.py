@@ -17,7 +17,7 @@ plt.show()
 
 
 '''
-BP implementation
+   BP implementation
 '''
 
 
@@ -38,7 +38,7 @@ plt.plot(e)
 plt.show()
 
 '''
-draw decision boundary
+   draw decision boundary
 '''
 h = 0.01
 x0_min, x0_max = X[:, 0].min()-0.1, X[:, 0].max()+0.1
